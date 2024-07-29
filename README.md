@@ -1,2 +1,2 @@
 # hello-world
-Panda image
+no longer a panda
